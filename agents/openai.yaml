@@ -1,0 +1,13 @@
+interface:
+  display_name: "Stage by Stage · 分阶段协作"
+  short_description: "先商量分几步做，每步交出成果、提醒关键问题，等你看完、改好、确认后再继续。"
+  default_prompt: "请使用 $stage-by-stage 帮我完成这个任务：已有阶段就沿用，没有就先建议分法；每阶段交出成果、提醒关键问题，等我确认后再继续。"
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+policy:
+  products:
+  - "chatgpt"
+  - "codex"
+  - "api"
+  - "atlas"
+  allow_implicit_invocation: false
