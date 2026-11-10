@@ -12,6 +12,10 @@ Stage by Stage 的技能指令（`SKILL.md`）与文字文档继续采用根目�
 
 - `assets/stage-by-stage-header-en.png`
 - `assets/stage-by-stage-header-zh.png`
+- `assets/readme-hero-zh.png`
+- `assets/readme-hero-zh-mobile.png`
+- `assets/readme-hero-en.png`
+- `assets/readme-hero-en-mobile.png`
 - `assets/throvia-lockup.png`
 - `assets/throvia-logo.png`
 
@@ -45,6 +49,10 @@ The brand display images in this distribution are provided separately under this
 
 - `assets/stage-by-stage-header-en.png`
 - `assets/stage-by-stage-header-zh.png`
+- `assets/readme-hero-zh.png`
+- `assets/readme-hero-zh-mobile.png`
+- `assets/readme-hero-en.png`
+- `assets/readme-hero-en-mobile.png`
 - `assets/throvia-lockup.png`
 - `assets/throvia-logo.png`
 
